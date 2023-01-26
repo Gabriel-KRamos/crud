@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\bin\Debug\net6.0\Crud.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\bin\Debug\net6.0\Crud.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\bin\Debug\net6.0\Crud.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\bin\Debug\net6.0\Crud.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\bin\Debug\net6.0\Crud.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\refint\Crud.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\Crud.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Crud\obj\Debug\net6.0\ref\Crud.dll
